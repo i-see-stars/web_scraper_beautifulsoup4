@@ -14,3 +14,7 @@ Web Scraper, реализованный с помощью библиотеки `
 - `source .venv/bin/activate`
 - `python -m pip install -r requirements.txt`
 - `python scrape.py`
+
+### TODO:
+
+- Почистить `requirements.txt` от лишних пакетов
